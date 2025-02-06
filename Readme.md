@@ -28,12 +28,20 @@ The simulation follows the classic Conway's Game of Life rules:
 
 ## Compilation
 
+Simply run
+
 ```bash
-mkdir build
-cd build
-cmake ..
-make
-./life
+$ ./r
+```
+
+Or, if you want to do it manually:
+
+```bash
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make
+$ ./life
 ```
 
 ## Running the Simulation
