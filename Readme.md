@@ -28,28 +28,20 @@ The simulation follows the classic Conway's Game of Life rules:
 
 ## Compilation
 
-### Using G++
-
-```bash
-g++ -std=c++23 game_of_life.cpp -o game_of_life
-```
-
-### Using CMake (Recommended)
-
 ```bash
 mkdir build
 cd build
 cmake ..
 make
-./game_of_life
+./life
 ```
 
 ## Running the Simulation
 
-Simply execute the compiled binary:
+Execute the compiled binary:
 
 ```bash
-./game_of_life
+./life
 ```
 
 ## Initial Pattern
