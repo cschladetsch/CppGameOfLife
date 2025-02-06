@@ -114,8 +114,7 @@ public:
 
 int main() {
     try {
-        GameOfLife game;
-        game.run();
+        GameOfLife().run();
     } catch (const std::exception& e) {
         std::cerr << "Error: " << e.what() << std::endl;
         return 1;
