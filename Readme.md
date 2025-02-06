@@ -94,7 +94,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[INSERT YOUR LICENSE HERE - e.g., MIT, GPL, etc.]
+MIT
 
 ## Acknowledgments
 
